@@ -1,0 +1,66 @@
+// TYPOGRAPHY PARTIAL
+
+// FONTS
+$font-title: Friz Quadrata, serif;
+$font-body-links: Friz Quadrata, serif;
+$font-body-sans: 'Fira Sans', sans-serif;
+
+@font-face { 
+font-family: Friz Quadrata;
+src: url("fonts/Friz Quadrata Bold.otf");
+}
+
+// SIZE OF FONTS 
+$size-logo: 20px;
+$size-welcome: 40px;
+$size-text: 18px;
+$size-nav: 15px;
+
+
+// FONT COLOR
+$spot-color: lightgray;
+
+////////////////////////////////////////////////////// 
+
+
+.navbar-brand a { 
+    font-family: $font-title;
+    color: $spot-color;
+    font-size: $size-logo;
+}
+
+.navbar-end a { 
+    font-family: $font-title;
+    font-size: $size-nav;
+    color: $spot-color;
+}
+
+.navbar-end a:hover { 
+    color: darkgreen;
+}
+
+// about me text blurb
+.container h2 { 
+    font-family: $font-body-sans;
+    font-size: $size-text;
+}
+
+p { 
+    font-family: $font-body-sans;
+    font-size: $size-text;
+}
+
+#typed { 
+    font-family: $font-title;
+    letter-spacing: -1px;
+    font-size: $size-welcome;
+}
+
+.typed-cursor{
+    font-size: $size-welcome;
+    opacity: 1;
+    color: $spot-color;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
