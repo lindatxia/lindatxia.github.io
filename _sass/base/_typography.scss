@@ -1,13 +1,16 @@
 // TYPOGRAPHY PARTIAL
 
 // FONTS
-$font-title: Friz Quadrata, serif;
-$font-body-links: Friz Quadrata, serif;
+$font-title: 'frizquadratabold', serif;
+$font-body-links: 'frizquadratabold', serif;
 $font-body-sans: 'Fira Sans', sans-serif;
 
-@font-face { 
-font-family: Friz Quadrata;
-src: url("fonts/Friz Quadrata Bold.otf");
+@font-face {
+    font-family: 'frizquadratabold';
+    src: url('/fonts/friz_quadrata_bold-webfont.woff2') format('woff2'),
+         url('/fonts/friz_quadrata_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 // SIZE OF FONTS 

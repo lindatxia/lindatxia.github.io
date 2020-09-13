@@ -19,17 +19,20 @@ $primary-invert: $pink-invert;
 // 4. Import the rest of Bulma
 */
 @import "https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Spectral:ital@1&display=swap";
 @font-face {
-  font-family: Friz Quadrata;
-  src: url("fonts/Friz Quadrata Bold.otf"); }
+  font-family: 'frizquadratabold';
+  src: url("/fonts/friz_quadrata_bold-webfont.woff2") format("woff2"), url("/fonts/friz_quadrata_bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
 
 .navbar-brand a {
-  font-family: Friz Quadrata, serif;
+  font-family: "frizquadratabold", serif;
   color: lightgray;
   font-size: 20px; }
 
 .navbar-end a {
-  font-family: Friz Quadrata, serif;
+  font-family: "frizquadratabold", serif;
   font-size: 15px;
   color: lightgray; }
 
@@ -45,7 +48,7 @@ p {
   font-size: 18px; }
 
 #typed {
-  font-family: Friz Quadrata, serif;
+  font-family: "frizquadratabold", serif;
   letter-spacing: -1px;
   font-size: 40px; }
 
