@@ -48,7 +48,7 @@ a {
 }
 
 a:hover {
-  color: #363636; 
+  color: #f45d48; 
 }
 
 .typed-cursor {
@@ -4867,7 +4867,7 @@ a.navbar-item,
   .navbar-link:hover,
   .navbar-link.is-active {
     background-color: #fafafa;
-    color: #3273dc; }
+    color: #f45d48; }
 
 .navbar-item {
   flex-grow: 0;
