@@ -24,3 +24,5 @@ h1,h2,h3,h1 em,h2 em,.wordmark{color:#111}.intro,.simple-about>p,.wire-links p,.
 @media(prefers-reduced-motion:reduce){.content-enter{animation:none}}
 
 .wordmark{font-family:HK,"Helvetica Neue",Arial,sans-serif;font-weight:400;font-synthesis:none}
+
+body{background-color:#fcfbf7;background-image:none}
