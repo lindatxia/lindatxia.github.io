@@ -30,3 +30,10 @@ body{background-color:#fcfbf7;background-image:none}
 a.post,a.back-link{text-decoration:none;color:inherit}
 .reader>ul{color:#666;line-height:1.65;padding-left:1.4em}
 .reader li a{text-decoration:underline}
+
+/* Align the article heading with the first sidebar tab. */
+@media (min-width: 701px) {
+  .inline-view > a.back-link + .inline-reader {
+    margin-block-start: 32px;
+  }
+}
