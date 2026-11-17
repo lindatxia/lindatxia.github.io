@@ -11,7 +11,7 @@ h1,h2,h3,h1 em,h2 em,.wordmark{color:#111}.intro,.simple-about>p,.wire-links p,.
 .back-link{font-size:14px;padding:0;margin:0 0 28px;text-decoration:underline;text-underline-offset:3px}.wire-writing .post-list,
 .writing-index .post-list,
 .inline-reader{max-width:600px}
-.inline-reader{margin:0}.inline-reader h2{font:600 22px/1.4 HK,Arial,sans-serif;letter-spacing:0;margin:0 0 15px}.inline-reader>p:not(.eyebrow):not(.content-note){font:16px/1.8 HK,Arial,sans-serif;color:#666}.inline-view .photo-view img{max-height:none}.inline-view .photo-view p{font-size:16px}
+.inline-reader{margin:0}.inline-reader h2{font:600 22px/1.4 HK,Arial,sans-serif;letter-spacing:0;margin:0 0 15px}.inline-reader>p:not(.eyebrow):not(.content-note){font:16px/1.8 HK,Arial,sans-serif;color:#111}.inline-view .photo-view img{max-height:none}.inline-view .photo-view p{font-size:16px}
 .inner.writing-index .post-list{margin-top:0}.writing-index .post:first-child{padding-top:0}.writing-index{min-height:0}
 .inner.photo-index h1{font:600 17px/1.5 HK,Arial,sans-serif;letter-spacing:0;margin:0 0 18px}.photo-index .gallery{margin-top:0}
 @media(min-width:701px){nav{gap:0}nav button{line-height:1.4;padding:6px 0;min-height:34.4px}}
@@ -31,7 +31,7 @@ h1,h2,h3,h1 em,h2 em,.wordmark{color:#111}.intro,.simple-about>p,.wire-links p,.
 body{background-color:#fcfbf7;background-image:none}
 
 a.post,a.back-link{text-decoration:none;color:inherit}
-.reader>ul{color:#666;line-height:1.65;padding-left:1.4em}
+.reader>ul{color:#111;line-height:1.65;padding-left:1.4em}
 .reader li a{text-decoration:underline}
 
 /* Align the article heading with the first sidebar tab. */
