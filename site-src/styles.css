@@ -6,8 +6,8 @@ body{background:#fff;color:#111;background-image:none}.site{max-width:1080px;pad
 .simple-about h1,.inner.simple-about h1{font:600 17px/1.5 HK,Arial,sans-serif;letter-spacing:0;margin:0 0 18px}.simple-about>p{font-size:16px;line-height:1.65;max-width:540px;margin:0 0 17px}.simple-about .text-link{font-size:16px;padding:0;margin-top:7px}
 .eyebrow,.post small,.resume-top span,.photo-view small,footer>span:last-of-type{letter-spacing:normal;text-transform:none}
 .post-date{font-size:14px;line-height:1.5;color:#666;font-variant-numeric:tabular-nums;white-space:nowrap}.post>.post-date{margin-left:auto}.post>span:first-child{min-width:0}.reader>.post-date{display:block;margin:16px 0 28px}@media(max-width:500px){.post{align-items:flex-start;flex-wrap:wrap;column-gap:15px}.post>.post-date{font-size:12px}.post>span:first-child{flex:1;min-width:140px}}
-h1,h2,h3,h1 em,h2 em,.wordmark{color:#111}.intro,.simple-about>p,.wire-links p,.resume-sheet>p,.resume-row p,.reader>p,.photo-view p,.post-date,.post small,.print-caption{color:#666}.reader>p.eyebrow{color:#666}.post h3,.wire-links h2{color:#111}
-.resume-pending>p{font-size:16px;line-height:1.65;color:#666;margin:0}
+h1,h2,h3,h1 em,h2 em,.wordmark{color:#111}.intro,.simple-about>p,.wire-links p,.resume-sheet>p,.resume-row p,.reader>p,.photo-view p,.print-caption{color:#111}.reader>p.eyebrow{color:#666}.post h3,.wire-links h2{color:#111}
+.resume-pending>p{font-size:16px;line-height:1.65;color:#111;margin:0}
 .back-link{font-size:14px;padding:0;margin:0 0 28px;text-decoration:underline;text-underline-offset:3px}.wire-writing .post-list,
 .writing-index .post-list,
 .inline-reader{max-width:600px}
