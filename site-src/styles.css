@@ -43,3 +43,8 @@ a.post,a.back-link{text-decoration:none;color:inherit}
 .inline-reader > ul {
   -webkit-text-stroke: 0.15px currentColor;
 }
+
+.inline-reader > p a,
+.inline-reader > ul a {
+  color: #7f8a97;
+}
