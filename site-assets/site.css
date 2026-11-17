@@ -37,3 +37,9 @@ a.post,a.back-link{text-decoration:none;color:inherit}
     margin-block-start: 32px;
   }
 }
+
+/* Slightly strengthen HK Grotesk Regular in article body copy. */
+.inline-reader > p,
+.inline-reader > ul {
+  -webkit-text-stroke: 0.15px currentColor;
+}
