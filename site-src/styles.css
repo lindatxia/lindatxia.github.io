@@ -56,7 +56,7 @@ a.post,a.back-link{text-decoration:none;color:inherit}
 
 .inline-reader > h3 {
   margin: 28px 0 12px;
-  font: 600 16px/1.5 HK, Arial, sans-serif;
+  font: 700 18px/1.5 HK, Arial, sans-serif;
 }
 
 .inline-reader > h4 {
@@ -65,5 +65,5 @@ a.post,a.back-link{text-decoration:none;color:inherit}
   border-inline-start: 2px solid #7f8a97;
   background: #f1f0eb;
   color: #111;
-  font: 600 16px/1.5 HK, Arial, sans-serif;
+  font: 700 18px/1.5 HK, Arial, sans-serif;
 }
