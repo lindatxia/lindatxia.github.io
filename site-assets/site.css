@@ -54,6 +54,11 @@ a.post,a.back-link{text-decoration:none;color:inherit}
 
 .inline-reader > pre{overflow-x:auto;padding:14px;background:#f1f0eb}
 
+.inline-reader > h3 {
+  margin: 28px 0 12px;
+  font: 600 16px/1.5 HK, Arial, sans-serif;
+}
+
 .inline-reader > h4 {
   margin: 28px 0 16px;
   padding: 10px 14px;
