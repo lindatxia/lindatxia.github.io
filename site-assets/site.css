@@ -53,3 +53,12 @@ a.post,a.back-link{text-decoration:none;color:inherit}
 }
 
 .inline-reader > pre{overflow-x:auto;padding:14px;background:#f1f0eb}
+
+.inline-reader > h4 {
+  margin: 28px 0 16px;
+  padding: 10px 14px;
+  border-inline-start: 2px solid #7f8a97;
+  background: #f1f0eb;
+  color: #111;
+  font: 600 16px/1.5 HK, Arial, sans-serif;
+}
