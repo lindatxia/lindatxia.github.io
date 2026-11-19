@@ -51,3 +51,5 @@ a.post,a.back-link{text-decoration:none;color:inherit}
 .inline-reader > ul a {
   color: #7f8a97;
 }
+
+.inline-reader > pre{overflow-x:auto;padding:14px;background:#f1f0eb}
